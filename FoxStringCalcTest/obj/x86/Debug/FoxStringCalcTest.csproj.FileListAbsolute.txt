@@ -1,0 +1,7 @@
+C:\Users\COREi7\Desktop\FoxStringCalcTest\FoxStringCalcTest\bin\Debug\FoxStringCalcTest.exe
+C:\Users\COREi7\Desktop\FoxStringCalcTest\FoxStringCalcTest\bin\Debug\FoxStringCalcTest.pdb
+C:\Users\COREi7\Desktop\FoxStringCalcTest\FoxStringCalcTest\obj\x86\Debug\FoxStringCalcTest.exe
+C:\Users\COREi7\Desktop\FoxStringCalcTest\FoxStringCalcTest\obj\x86\Debug\FoxStringCalcTest.pdb
+C:\Users\COREi7\Desktop\FoxStringCalcTest\FoxStringCalcTest\obj\x86\Debug\FoxStringCalcTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\99 ProgramSource\GitHub\StringCalc2\FoxStringCalcTest\obj\x86\Debug\FoxStringCalcTest.exe
+C:\Dropbox\99 ProgramSource\GitHub\StringCalc2\FoxStringCalcTest\obj\x86\Debug\FoxStringCalcTest.pdb
